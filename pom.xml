@@ -18,7 +18,7 @@
   <description>An Example addon for BetterGUI</description>
 
   <properties>
-    <project.mainClass>me.hsgamer.bettergui.exampleaddon.ExampleAddon</project.mainClass>
+    <project.mainClass>me.hsgamer.bettergui.hybridrequirement.HybridRequirement</project.mainClass>
   </properties>
 
   <repositories>

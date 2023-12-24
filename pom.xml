@@ -10,15 +10,15 @@
     <version>3.1</version>
   </parent>
 
-  <artifactId>ExampleAddon</artifactId>
+  <artifactId>HybridRequirement</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>ExampleAddon</name>
-  <description>An Example addon for BetterGUI</description>
+  <name>HybridRequirement</name>
+  <description>An extension for complex requirements for BetterGUI</description>
 
   <properties>
-    <project.mainClass>me.hsgamer.bettergui.hybridrequirement.HybridRequirement</project.mainClass>
+    <project.mainClass>me.hsgamer.bettergui.hybridrequirement.Main</project.mainClass>
   </properties>
 
   <repositories>
